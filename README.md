@@ -71,7 +71,7 @@ leave-management-api/
 ### Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/tritobolus/Leave_Management_System
 cd leave-management-api
 ```
 
@@ -169,14 +169,14 @@ All API responses follow a consistent structure:
 
 The API is deployed and accessible at:
 
-👉 **Live API URL:**
-`<your-deployment-link>`
+ **Live API URL:**
+`https://leave-management-system-fhyv.onrender.com/docs#/`
 
 ---
 
 ## 🔗 Repository
 
-👉 **GitHub Repository:**
+ **GitHub Repository:**
 `https://github.com/tritobolus/Leave_Management_System`
 
 ---
