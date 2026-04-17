@@ -1,0 +1,58 @@
+{
+    "employees": [
+        {
+            "employeeId": 1,
+            "firstName": "Akash",
+            "lastName": "Howly",
+            "email": "akash@example.com",
+            "department": "IT",
+            "joinDate": "2024-01-10"
+        },
+        {
+            "employeeId": 2,
+            "firstName": "Rahul",
+            "lastName": "Sharma",
+            "email": "rahul@example.com",
+            "department": "HR",
+            "joinDate": "2023-05-15"
+        }
+    ],
+    "leaves": [
+        {
+            "leaveId": 1,
+            "employeeId": 1,
+            "startDate": "2026-04-01",
+            "endDate": "2026-04-03",
+            "leaveType": "Annual",
+            "reason": "Vacation",
+            "totalDays": 3,
+            "status": "pending"
+        },
+        {
+            "leaveId": 2,
+            "employeeId": 2,
+            "startDate": "2026-04-05",
+            "endDate": "2026-04-06",
+            "leaveType": "Sick",
+            "reason": "Fever",
+            "totalDays": 2,
+            "status": "pending"
+        }
+    ],
+    "balances": [
+        {
+            "employeeId": 1,
+            "year": 2026,
+            "Annual": 20,
+            "Sick": 10,
+            "Casual": 7
+        },
+        {
+            "employeeId": 2,
+            "year": 2026,
+            "Annual": 18,
+            "Sick": 8,
+            "Casual": 5
+        }
+    ]
+}
